@@ -1,2 +1,4 @@
 # Bipolar-Distortion-Correction
-The code will be made available by the time of the publication of the corresponding abstract
+Unfortunately, I didn't find the time to produce a nice demonstration, but here is the source code: https://github.com/korbinian90/MriResearchTools.jl/blob/master/src/VSMbasedunwarping.jl
+
+
